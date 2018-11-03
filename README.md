@@ -20,5 +20,6 @@ TODO: Fill in this section .....
 |    0x3D     | PCF8574 GPIO expander on button board 5 |
 |    0x3E     | PCF8574 GPIO expander on button board 6 |
 |    0x3F     | PCF8574 GPIO expander on button board 7 |
+|    ????     | ??????? EEPROM                          |
 
 *All I²C addresses are specified in 7-bit format (i.e. the read/write bit is not considered part of the address).*
