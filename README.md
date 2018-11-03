@@ -6,6 +6,8 @@ Custom arcade game style controller with USB interface
 
 TODO: Fill in this section .....
 
+![Block diagram](./Block%20diagram.png)
+
 ## I²C addresses
 
 | I²C address | Device                                  |
