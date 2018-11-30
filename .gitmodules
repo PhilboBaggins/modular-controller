@@ -10,3 +10,7 @@
 	path = Hardware - Button board
 	url = git@github.com:PhilboBaggins/arcade-controller-pcb-button-board.git
 	branch = master
+[submodule "Hardware - User interface board"]
+	path = Hardware - User interface board
+	url = git@github.com:PhilboBaggins/arcade-controller-pcb-user-interface.git
+	branch = master
