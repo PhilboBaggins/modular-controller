@@ -8,6 +8,18 @@ TODO: Fill in this section .....
 
 ![Block diagram](./Block%20diagram.png)
 
+## System components
+
+* PCBAs
+  * [Main board](https://github.com/PhilboBaggins/arcade-controller-pcb-main-board)
+  * [Button board](https://github.com/PhilboBaggins/arcade-controller-pcb-button-board)
+  * [User interface board](https://github.com/PhilboBaggins/arcade-controller-pcb-user-interface)
+* [Firmware](https://github.com/PhilboBaggins/arcade-controller-firmware)
+
+## Projects using these components
+
+None yet :(
+
 ## I²C addresses
 
 | I²C address | Device                                  |
