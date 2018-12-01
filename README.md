@@ -18,6 +18,12 @@ TODO: Fill in this section .....
 
 ## Projects using these components
 
+### Mine
+
+* [Arcade controller](https://github.com/PhilboBaggins/arcade-controller)
+
+### Other peoples
+
 None yet :(
 
 ## I²C addresses
